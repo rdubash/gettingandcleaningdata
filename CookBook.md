@@ -57,7 +57,7 @@ The following describes the actual data transformation that happens within run_a
 
 For the purposes of this project data from the folder Inertial Signals was not read and/or processed.
 
-Steps for Transforming the data (as found in run_analysis.R):
+Steps for Transforming the data (as found in run_analysis.R)
 1. Set working directory to the UCIHAR Dataset folder (done through menu in R-console)
 2. Source the various libraries
 3. Read the various data sets using the read.table function - activity labels, features, subject test, x test, y test, subject train, x train and y train. In all 8 data files are read.
