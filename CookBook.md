@@ -50,7 +50,7 @@ The following files are available for the train and test data. Their description
 
 For more information about this dataset contact: activityrecognition@smartlab.ws
 
-# Processing/Transforming the Raw Data Set to produce the Tidy Data Set
+## Processing/Transforming the Raw Data Set to produce the Tidy Data Set
 For reproduction purposes simply set the working directory in R concole and then source the run_analysis.R script.
 
 The following describes the actual data transformation that happens within run_analysis.R script:
